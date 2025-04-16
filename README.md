@@ -1,4 +1,4 @@
-# Buho Network Pack
+# buho Network Pack
 
 A Unity package providing network utilities for scene transitions in multiplayer games.
 
