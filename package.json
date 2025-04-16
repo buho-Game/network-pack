@@ -1,0 +1,27 @@
+{
+  "name": "com.buho.networkpack",
+  "version": "1.0.0",
+  "displayName": "Buho Network Pack",
+  "description": "A network utility package for Unity with scene transition tools",
+  "unity": "2021.3",
+  "keywords": [
+    "network",
+    "scene",
+    "transition",
+    "unity"
+  ],
+  "author": {
+    "name": "buho Games",
+    "url": "https://github.com/buho-Game/network-pack.git"
+  },
+  "dependencies": {
+    "com.unity.netcode.gameobjects": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Scene Transition",
+      "description": "Contains a basic scene transition example",
+      "path": "Samples~/BasicSceneTransition"
+    }
+  ]
+} 
